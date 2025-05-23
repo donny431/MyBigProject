@@ -7,7 +7,7 @@ import Otzv from "./pages/Otzv";
 import Prt from "./pages/Prt";
 import Rus from "./pages/Rus";
 import Uzs from "./pages/Uzs";
-import Support from "./pages/support";
+import Support from "./pages/Support";
 
 export default function App() {
   return (
